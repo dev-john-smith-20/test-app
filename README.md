@@ -1,4 +1,4 @@
-[![Known Vulnerabilities](https://snyk.io/test/github/dev-john-smith-20/test-app/badge.svg)](https://snyk.io/test/github/dev-john-smith-20/test-app)
+[![Known Vulnerabilities](https://snyk.io/test/github/dev-john-smith-20/test-app/badge.svg)](https://snyk.io/test/github/dev-john-smith-20/test-app) Not working!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
